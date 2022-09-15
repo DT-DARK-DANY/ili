@@ -1,0 +1,36 @@
+
+#loginbtn{
+    background-image: linear-gradient(to left, #2980b9, #3498db, #bdc3c7); 
+    color: white;
+}
+#email{
+    width: 100%;
+}
+#pwd{
+    width: 100%;
+}
+.center{
+    width: 100%;
+    margin: auto;
+}
+.form{
+    
+     text-align: center;
+
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /* width:80%; */
+    /* margin:0 auto; */
+    /* margin-top: 10%; */
+}
+#leh{
+    text-align: center;
+}
+.img_center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
